@@ -1,8 +1,6 @@
-     /* ***************** */
-    /*     HOMEWORK-3    */
-   /*  	Ugurcan Polat   */
-  /*	  150140117    */
- /*	polatu@itu.edu.tr */
+   /* ***************** */
+  /*   Ugurcan Polat   */
+ /* polatu@itu.edu.tr */
 /* ***************** */
 
 #include <stdio.h> // printf(), scanf(), getchar(), fgets(), stdin, NULL
